@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on GIS, urban design methods and R codes.
 - 📫 Please find me on : 
     [LinkedIn] : https://www.linkedin.com/in/youcef-mokrane-893b40176/
-    [Twitter] : https://twitter.com/yousstech
+    [Twitter] : https://twitter.com/yoostech
 <!---
 yOOs-dz/yOOs-dz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
