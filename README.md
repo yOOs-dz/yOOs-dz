@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yOOs-dz. Architect and PhD student in Architecture.
-- 👀 I’m interested in Architectural and urban design methods, statistical analysis with R and GIS
-- 🌱 I’m currently learning Exploratory Data Analysis from John Hopkins University through Coursera.
+- 👋 Hi, I’m @yOOs-dz. Architect, Assistant Professor at the Architecture Department- University of Biskra. Algeria.
+- 👀 I’m interested in Architectural and urban design methods, statistical analysis with R and GIS.
+- 🌱 Graduated from Exploratory Data Analysis from John Hopkins University through Coursera and AllInAfrica Program.
 - 💞️ I’m looking to collaborate on GIS, urban design methods and R codes.
 - 📫 Please find me on : 
     [LinkedIn] : https://www.linkedin.com/in/youcef-mokrane-893b40176/
