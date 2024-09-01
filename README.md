@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yOOs-dz. Architect, Assistant Professor at the Architecture Department- University of Biskra. Algeria.
 - 👀 I’m interested in Architectural and urban design methods, data analysis and GIS.
-- :rocket: Work actually on a main project : [bayanyproject.github.io](https://github.com/bayanyproject/bayanyproject.github.io)
-- 🌱 Graduated from the GitHub program of AllInAfrica.
+- - 🌱 Graduated from the GitHub program of AllInAfrica.
+- :rocket: I Work actually on a main project : [bayanyproject.github.io](https://github.com/bayanyproject/bayanyproject.github.io)
 - 💞️ I’m looking to collaborate on GIS, urban design methods, R, Python.
 - 📫 Please find me on : 
     [LinkedIn] : https://www.linkedin.com/in/youcef-mokrane-893b40176/
